@@ -8,21 +8,21 @@
       "nombre": "Carlitos Rappi",
       "emoji": "🦜",
       "descripcion": "Acciones del loro más laburante",
-      "probSubida": 35,
+      "probSubida": 10,
       "probBajada": 45,
       "probNada": 20,
-      "porcentajeSubida": 40,
-      "porcentajeBajada": 40
+      "porcentajeSubida": 5,
+      "porcentajeBajada": 5
     },
     {
       "id": "johnny_pisos",
       "nombre": "Johnny Lamedor de Pisos",
       "emoji": "🧹",
       "descripcion": "Inversión de alto brillo",
-      "probSubida": 30,
-      "probBajada": 50,
+      "probSubida": 60,
+      "probBajada": 30,
       "probNada": 20,
-      "porcentajeSubida": 35,
+      "porcentajeSubida": 60,
       "porcentajeBajada": 45
     },
     {
