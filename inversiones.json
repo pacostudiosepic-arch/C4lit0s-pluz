@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "actualizado": "2026-09-06",
+  "intervaloSegundos": 5,
+  "acciones": [
+    {
+      "id": "carlitos_rappi",
+      "nombre": "Carlitos Rappi",
+      "emoji": "🦜",
+      "descripcion": "Acciones del loro más laburante",
+      "probSubida": 35,
+      "probBajada": 45,
+      "probNada": 20,
+      "porcentajeSubida": 40,
+      "porcentajeBajada": 40
+    },
+    {
+      "id": "johnny_pisos",
+      "nombre": "Johnny Lamedor de Pisos",
+      "emoji": "🧹",
+      "descripcion": "Inversión de alto brillo",
+      "probSubida": 30,
+      "probBajada": 50,
+      "probNada": 20,
+      "porcentajeSubida": 35,
+      "porcentajeBajada": 45
+    },
+    {
+      "id": "bicarlitos",
+      "nombre": "Bicarlitos",
+      "emoji": "₿",
+      "descripcion": "La crypto del loro",
+      "probSubida": 25,
+      "probBajada": 55,
+      "probNada": 20,
+      "porcentajeSubida": 50,
+      "porcentajeBajada": 40
+    }
+  ]
+}
