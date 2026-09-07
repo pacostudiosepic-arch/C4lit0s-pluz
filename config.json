@@ -1,0 +1,137 @@
+{
+  "version": "1.2.0",
+  "actualizado": "2026-09-07",
+  "mineria": {
+    "tiempoBase": 30,
+    "minasPorClick": 5,
+    "probNada": 80,
+    "probCincuenta": 15,
+    "probJackpot": 5,
+    "premioCincuenta": 50,
+    "premioJackpot": 350
+  },
+  "bicarlitos": {
+    "costoBase": 1000,
+    "tiempoBase": 30,
+    "resultadosPorMina": 3,
+    "probNada": 90,
+    "probPremio": 10,
+    "premio": 1
+  },
+  "productos": [
+    {
+      "id": "papas",
+      "emoji": "🍟",
+      "nombre": "Papas fritas",
+      "precio": 50,
+      "desc": "+1% chance de +50 (varias veces)",
+      "efecto": "bonus50",
+      "valor": 1,
+      "unaVez": false
+    },
+    {
+      "id": "papas_oro",
+      "emoji": "🍟",
+      "nombre": "Papas fritas de oro",
+      "precio": 500,
+      "desc": "+1% chance de jackpot (varias veces)",
+      "efecto": "bonusJackpot",
+      "valor": 1,
+      "unaVez": false
+    },
+    {
+      "id": "bananas",
+      "emoji": "🍌",
+      "nombre": "Bananas el carlitos",
+      "precio": 100,
+      "desc": "-1s a la minería de MC",
+      "efecto": "mineTime",
+      "valor": -1,
+      "unaVez": false
+    },
+    {
+      "id": "bibanana",
+      "emoji": "🍌",
+      "nombre": "Bibanana el carlitos",
+      "precio": 1000,
+      "desc": "-1s a la minería de Bicarlitos",
+      "efecto": "bcMineTime",
+      "valor": -1,
+      "unaVez": false
+    },
+    {
+      "id": "sanguche",
+      "emoji": "🥪",
+      "nombre": "Sanguche de miga el carlitos",
+      "precio": 1000,
+      "desc": "-25 MC al costo de minar BC",
+      "efecto": "bcCost",
+      "valor": -25,
+      "unaVez": false
+    },
+    {
+      "id": "coca",
+      "emoji": "🥤",
+      "nombre": "Coca el carlitos",
+      "precio": 150,
+      "desc": "3 usos de 50% descuento",
+      "efecto": "descuento",
+      "valor": 3,
+      "unaVez": false
+    },
+    {
+      "id": "pico_hierro",
+      "emoji": "⛏️",
+      "nombre": "Pico de hierro",
+      "precio": 500,
+      "desc": "+1 minería MC (1 vez)",
+      "efecto": "pico",
+      "valor": 1,
+      "unaVez": true,
+      "flag": "ownedPicoHierro"
+    },
+    {
+      "id": "pico_diamante",
+      "emoji": "💎",
+      "nombre": "Pico de diamante",
+      "precio": 1000,
+      "desc": "+1 minería MC (1 vez)",
+      "efecto": "pico",
+      "valor": 1,
+      "unaVez": true,
+      "flag": "ownedPicoDiamante"
+    },
+    {
+      "id": "pico_netherite",
+      "emoji": "🔥",
+      "nombre": "Pico de netherite",
+      "precio": 2000,
+      "desc": "+1 minería MC (1 vez)",
+      "efecto": "pico",
+      "valor": 1,
+      "unaVez": true,
+      "flag": "ownedPicoNetherite"
+    },
+    {
+      "id": "pico_carlitos",
+      "emoji": "🦜",
+      "nombre": "Pico de carlitos",
+      "precio": 5000,
+      "desc": "+1 minería MC (1 vez)",
+      "efecto": "pico",
+      "valor": 1,
+      "unaVez": true,
+      "flag": "ownedPicoCarlitos"
+    },
+    {
+      "id": "foto",
+      "emoji": "📸",
+      "nombre": "Foto de carlitos desnudo",
+      "precio": 100000000,
+      "desc": "Te manda a Google",
+      "efecto": "redirect",
+      "valor": "https://www.google.com",
+      "unaVez": false
+    }
+  ]
+}
