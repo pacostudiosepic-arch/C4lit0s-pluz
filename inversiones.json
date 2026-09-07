@@ -5,36 +5,36 @@
   "acciones": [
     {
       "id": "carlitos_rappi",
-      "nombre": "Carlitos Rappi",
+      "nombre": "Carlitos Rappi -5%",
       "emoji": "🦜",
       "descripcion": "Acciones del loro más laburante",
       "probSubida": 10,
-      "probBajada": 45,
+      "probBajada": 30,
       "probNada": 20,
       "porcentajeSubida": 5,
-      "porcentajeBajada": 5
+      "porcentajeBajada": 10
     },
     {
       "id": "johnny_pisos",
-      "nombre": "Johnny Lamedor de Pisos",
+      "nombre": "Johnny Lamedor de Pisos +60%",
       "emoji": "🧹",
       "descripcion": "Inversión de alto brillo",
       "probSubida": 60,
       "probBajada": 30,
       "probNada": 20,
       "porcentajeSubida": 60,
-      "porcentajeBajada": 45
+      "porcentajeBajada": 20
     },
     {
       "id": "bicarlitos",
-      "nombre": "Bicarlitos",
+      "nombre": "Bicarlitos -20%",
       "emoji": "₿",
       "descripcion": "La crypto del loro",
-      "probSubida": 25,
-      "probBajada": 55,
-      "probNada": 20,
-      "porcentajeSubida": 50,
-      "porcentajeBajada": 40
+      "probSubida": 15,
+      "probBajada": 25,
+      "probNada": 30,
+      "porcentajeSubida": 30,
+      "porcentajeBajada": 5
     }
   ]
 }
