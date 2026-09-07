@@ -1,5 +1,5 @@
 # C4lit0s-pluz
-githun secreto que es el corazon de la web
+github secreto que es el corazon de la web carlitos plus
 
 # ¿por que nombre medio roto?
 se hizo a proposito para que sea mas dificil encontrarlo
