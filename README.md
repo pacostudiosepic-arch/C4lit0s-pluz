@@ -1,2 +1,5 @@
 # C4lit0s-pluz
-A
+pagina web secreta de carlitos plus
+
+# contenido
+archivos de precios, archivos de acciones 
