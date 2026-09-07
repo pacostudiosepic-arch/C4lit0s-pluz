@@ -124,6 +124,17 @@
       "flag": "ownedPicoCarlitos"
     },
     {
+      "id": "pico_antimateria",
+      "emoji": "🚀",
+      "nombre": "Pico de antimateria",
+      "precio": 10000,
+      "desc": "+1 minería MC (1 vez)",
+      "efecto": "pico",
+      "valor": 1,
+      "unaVez": true,
+      "flag": "ownedPicoantimateria"
+    },
+    {
       "id": "foto",
       "emoji": "📸",
       "nombre": "Foto de carlitos desnudo",
