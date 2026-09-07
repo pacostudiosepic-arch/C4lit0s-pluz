@@ -1,5 +1,8 @@
 # C4lit0s-pluz
-pagina web secreta de carlitos plus
+githun secreto que es el corazon de la web
 
-# contenido
-archivos de precios, archivos de acciones 
+# ¿por que nombre medio roto?
+se hizo a proposito para que sea mas dificil encontrarlo
+
+# ¿toco algo?
+no :)
