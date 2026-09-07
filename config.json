@@ -7,12 +7,12 @@
     "probNada": 80,
     "probCincuenta": 15,
     "probJackpot": 5,
-    "premioCincuenta": 50,
-    "premioJackpot": 350
+    "premioCincuenta": 25,
+    "premioJackpot": 100
   },
   "bicarlitos": {
     "costoBase": 1000,
-    "tiempoBase": 30,
+    "tiempoBase": 60,
     "resultadosPorMina": 3,
     "probNada": 90,
     "probPremio": 10,
